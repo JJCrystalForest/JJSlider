@@ -117,7 +117,7 @@ private extension SideMenuViewCtrl {
         // header
         headerModel.icon = UIImage.init(named: "slider_menu_portrait_icon")
         headerModel.title = "Free"
-        headerModel.content = "crtstal"
+        headerModel.content = "crystal"
         
         
     }
